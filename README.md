@@ -19,3 +19,11 @@ O arquivo `calculadora_de_viabilidade_de_livro_nicoll_siqueira_da_rosa.py` é um
 
 - **Resultado:**
   O programa exibe o resumo financeiro detalhado e avalia se o projeto é viável com base na margem de lucro calculada.
+
+
+### Passo a passo para execução no terminal Linux/WSL:
+
+1. Abra o terminal do Linux ou WSL (Ubuntu).
+2. Navegue até o diretório onde o repositório foi clonado/baixado:
+   ```bash
+   cd /caminho/para/o/repositorio
